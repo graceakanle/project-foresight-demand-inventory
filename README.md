@@ -162,7 +162,7 @@ The dashboard was developed using Streamlit and deployed through Streamlit Commu
 
 Live Dashboard:
 
-[Insert your Streamlit dashboard link here]
+[View the Live Project FORESIGHT Dashboard](https://project-foresight-demand-inventory-bwa4cxlfsqnfyfvsiply5v.streamlit.app/)
 
 ## Limitations
 
